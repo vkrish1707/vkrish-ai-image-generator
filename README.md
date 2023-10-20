@@ -1,9 +1,14 @@
-[Your Project Name]
+
+# AI Image Generator
+
+A brief description of what this project does and who it's for
+
+Vkrish's AI Image Generator
 Overview
 This application serves as an interactive playground that brings together the best of natural language processing and image generation. It features ChatGPT for text suggestions and leverages DALL·E for creative image outputs, wrapped up in a sleek Next.js interface.
 
 Live Demo
-[Insert your live demo link here]
+[https://vkrish-ai-image-generator.vercel.app/]
 
 Features
 Real-time text suggestions powered by ChatGPT
@@ -31,7 +36,7 @@ Getting Started
 Clone the repo
 bash
 Copy code
-git clone [Your Repository URL]
+git clone [https://github.com/vkrish1707/vkrish-ai-image-generator]
 Install dependencies
 bash
 Copy code
@@ -46,3 +51,24 @@ Future Enhancements
 [Your future plans for the project]
 Contributing
 Feel free to open issues and pull requests!
+## Demo
+
+https://vkrish-ai-image-generator.vercel.app/
+## Authors
+
+- [vkrish1707](https://www.github.com/vkrish1707)
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+npm install
+```
+```bash
+npm run dev
+```
+Visit http://localhost:3000 to view the app in your browser.
+
+    
